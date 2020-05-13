@@ -1,0 +1,79 @@
+DocuSign Tab Type Html Tag
+
+SignHere <ds-signature />
+Initial <ds-initial />
+Title
+
+<ds-title />
+
+DateSigned
+
+<ds-date-signed />
+
+Company
+
+<ds-company />
+
+EnvelopeId
+
+<ds-envelope-id />
+
+Approve
+
+<ds-approved />
+
+Declined
+
+<ds-declined />
+
+Text
+
+<input data-ds-type=”text” />
+
+Password
+
+<input data-ds-type=”password” />
+
+Date
+
+<input data-ds-type=”date” />
+
+Email
+
+<input data-ds-type=”email” />
+
+Number
+
+<input data-ds-type=”number” />
+
+Radio
+
+<input data-ds-type=”radio” />
+
+Checkbox
+
+<input data-ds-type=”checkbox” />
+
+FirstName
+
+<input data-ds-type=”firstname” />
+
+LastName
+
+<input data-ds-type=”lastname” />
+
+SSN
+
+<input data-ds-type=”ssn” />
+
+Zip
+
+<input data-ds-type=”zip” />
+
+ZipDash4
+
+<input data-ds-type=”zipdash4” />
+
+TextArea
+
+<textarea data-ds-type=”textarea” />
